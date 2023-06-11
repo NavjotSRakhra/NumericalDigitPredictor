@@ -43,6 +43,20 @@ console and:
 - You have to click/drag to paint the canvas/drawing area.
 - To clean the canvas press the keyboard key **R.**
 
+*To use the Neural network in your own project copy the following into `pom.xml`*
+
+```xml
+
+<dependency>
+    <groupId>io.github.NavjotSRakhra</groupId>
+    <artifactId>NeuralNetwork</artifactId>
+    <version>1.0.2</version>
+</dependency>
+```
+
+*Or install the library manually by cloning the
+project: [Neural Network](https://github.com/NavjotSRakhra/NeuralNetwork)*
+
 ## License
 
 MIT License
