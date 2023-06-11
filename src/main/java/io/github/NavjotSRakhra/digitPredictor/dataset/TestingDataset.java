@@ -1,4 +1,4 @@
-package io.github.NavjotSRakhra.dataset;
+package io.github.NavjotSRakhra.digitPredictor.dataset;
 
 import java.io.File;
 import java.io.FileNotFoundException;

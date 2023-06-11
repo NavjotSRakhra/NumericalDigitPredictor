@@ -4,6 +4,7 @@
 
 * [Digit Predictor - A Neural Network based A.I.](#digit-predictor---a-neural-network-based-ai)
     * [Introduction](#introduction)
+    * [Download setup](#download-setup)
     * [Preview](#preview)
     * [Project setup](#project-setup)
     * [Project usage](#project-usage)
@@ -17,6 +18,14 @@ This project is based on the Neural Network I implemented. The
 neural network is trained on *MNIST* dataset. Its dimensions are
 *input layer: 784, hidden layer: 800, output layer: 10.* The
 accuracy of neural network is above **97%**
+
+## Download setup
+
+- [*Click here to download the
+  setup*](https://github.com/NavjotSRakhra/NumericalDigitPredictor/releases/download/v1.0.0/Digit_Predictor_1.0.0_setup.exe)
+
+- [*Click here to download the trained neural
+  network*](https://github.com/NavjotSRakhra/NumericalDigitPredictor/releases/download/v1.0.0/TrainedNeuralNetwork.nnn)
 
 ## Preview
 

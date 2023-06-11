@@ -1,4 +1,4 @@
-package io.github.NavjotSRakhra.dataset;
+package io.github.NavjotSRakhra.digitPredictor.dataset;
 
 public record Data(int label, byte[] image) {
     @Override

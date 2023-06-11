@@ -57,7 +57,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <mainClass>io.github.NavjotSRakhra.prediction.Predictor</mainClass>
+                    <mainClass>io.github.NavjotSRakhra.digitPredictor.prediction.Predictor</mainClass>
                 </configuration>
             </plugin>
         </plugins>

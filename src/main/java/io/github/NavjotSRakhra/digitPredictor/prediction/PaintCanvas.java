@@ -1,4 +1,4 @@
-package io.github.NavjotSRakhra.prediction;
+package io.github.NavjotSRakhra.digitPredictor.prediction;
 
 import javax.swing.*;
 import java.awt.*;

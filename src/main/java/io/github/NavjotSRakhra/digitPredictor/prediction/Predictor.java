@@ -1,7 +1,7 @@
-package io.github.NavjotSRakhra.prediction;
+package io.github.NavjotSRakhra.digitPredictor.prediction;
 
-import io.github.NavjotSRakhra.dataset.Data;
-import io.github.NavjotSRakhra.dataset.TrainingDataset;
+import io.github.NavjotSRakhra.digitPredictor.dataset.Data;
+import io.github.NavjotSRakhra.digitPredictor.dataset.TrainingDataset;
 import io.github.NavjotSRakhra.neuralNetwork.NeuralNetwork;
 
 import javax.swing.*;

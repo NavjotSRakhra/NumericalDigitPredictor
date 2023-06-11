@@ -1,9 +1,9 @@
-package io.github.NavjotSRakhra;
+package io.github.NavjotSRakhra.digitPredictor;
 
 import com.formdev.flatlaf.themes.FlatMacDarkLaf;
-import io.github.NavjotSRakhra.dataset.Data;
-import io.github.NavjotSRakhra.dataset.TestingDataset;
-import io.github.NavjotSRakhra.dataset.TrainingDataset;
+import io.github.NavjotSRakhra.digitPredictor.dataset.Data;
+import io.github.NavjotSRakhra.digitPredictor.dataset.TestingDataset;
+import io.github.NavjotSRakhra.digitPredictor.dataset.TrainingDataset;
 import io.github.NavjotSRakhra.neuralNetwork.NeuralNetwork;
 import io.github.NavjotSRakhra.neuralNetwork.activation.TanH;
 import io.github.NavjotSRakhra.progressPrinter.ProgressPrinter;
